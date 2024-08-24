@@ -1,4 +1,3 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=castlejn00)](https://solved.ac/castlejn00/)
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&text=Hello%20World%20🌎%20I'm%20Seong%20Jun%20⚡️&animation=fadeIn&fontColor=ffffff&fontSize=50" />
