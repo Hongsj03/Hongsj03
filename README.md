@@ -1,3 +1,6 @@
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=castlejn00)](https://solved.ac/castlejn00/)
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&text=Hello%20World%20🌎%20I'm%20Seong%20Jun%20⚡️&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
@@ -15,4 +18,4 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://velog.io/@tjdwns03/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@tjdwns03/posts"> </a>
           </div>  <br> 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=castlejn00)](https://solved.ac/castlejn00/)
+
