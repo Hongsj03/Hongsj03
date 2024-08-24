@@ -1,4 +1,3 @@
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=castlejn00)](https://solved.ac/castlejn00/)
 
 <div align= "center">
